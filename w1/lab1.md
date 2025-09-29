@@ -82,6 +82,10 @@ pip install matplotlib
 
 ---
 
+
+You may need to install Python vscode extention;
+https://marketplace.visualstudio.com/items?itemName=ms-python.python
+
 ### Deliverables
 
 - A screenshot showing Python version confirmation in your command line.  
