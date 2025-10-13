@@ -97,4 +97,3 @@ https://marketplace.visualstudio.com/items?itemName=ms-python.python
 ---
 
 If you face any issues during the installation or setup, make sure to check the official documentation or ask in the course discussion forum.
-
