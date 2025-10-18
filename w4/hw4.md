@@ -8,7 +8,7 @@
 
 ### Video Examples
 1. **Google Coding Interview Example**
-   - Video: https://www.youtube.com/watch?v=46dZH7LDbf8
+   - Video: https://www.youtube.com/watch?v=KsbtAsnJN20
    - Easy level problem solved: [Longest Continuous Increasing Subsequence](https://leetcode.com/problems/longest-continuous-increasing-subsequence/)
    - Note: The medium problem is optional (not included in our midterm). In interviews, we typically see two tasks: either (easy-medium) or (easy-hard) pairs to better assess candidates.
 
