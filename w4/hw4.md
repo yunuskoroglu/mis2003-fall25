@@ -37,7 +37,8 @@ Each quesion is 5 point, total 10pts.
 ### Steps to Complete:
 1. **Solve the Problems**
    - Solve the problems independently or use resources (internet, AI coding assistants, etc.)
-   - Ensure you fully understand both the problem and solution
+   - Ensure you fully understand both the problem and solution.
+   - You are free to solve and understand questions by yourself first, these process does not need to be recorded. After you feel ready enough then pass to step 2.
 
 2. **Prepare Video Presentations**
    - Create a 1-minute video for each question (2 minutes total minimum, 5 minutes maximum)
