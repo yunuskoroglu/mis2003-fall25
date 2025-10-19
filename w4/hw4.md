@@ -4,7 +4,7 @@
 
 ## Example Live Interviews
 
-!! These videos is optional to watch but recommended to complete your homework below.
+!! These videos are optional to watch but recommended to complete your homework below.
 
 ### Video Examples
 1. **Google Coding Interview Example**
@@ -16,8 +16,8 @@
    - Video: https://www.youtube.com/watch?v=3Q_oYDQ2whs
    - This coding interview demonstrates pair programming where the candidate and interviewer discuss the problem together and complete the task while explaining their approach. They use Google Docs for interactive writing - there is no IDE, script execution, or unit testing.
 
-3. **Beginner Training Set Türkçe Playlist**
-(This playlist is for Turkish students only we alrady publish enough example on English this is suplementary for Turkish)
+3. **Beginner Training Set Turkish Playlist**
+(This playlist is for Turkish students only we already publish enough examples for English those are suplementary for Turkish)
 https://youtube.com/playlist?list=PLhnxo6HZwBglbALWurJhkVMCGkgtamhXj&si=d8hEhGL08BrCM4-z
 
 
