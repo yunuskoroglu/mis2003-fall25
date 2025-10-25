@@ -18,7 +18,7 @@ In this homework, you will create your own personal web page by forking a reposi
      ```
 
 3. **Create Your Personal Web Page**
-   - Navigate to the web page template directory
+   - Navigate to the web page template directory `w5/template.html`
    - Make a copy of `template.html` and rename it to `yourname_yoursurname.html`
      (Example: `john_doe.html`)
    - Edit your HTML file with your personal information:
